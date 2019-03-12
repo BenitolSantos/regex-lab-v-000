@@ -1,3 +1,5 @@
+#WHEN IT COMES TO REGEX PLAY AROUND IN RUBULAR UNTIL YOU GET IT.
+
 require "pry"
 def starts_with_a_vowel?(word) #word is actually multiple one word strings.
   #use rubular to test out stuff first
